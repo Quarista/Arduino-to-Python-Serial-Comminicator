@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int x;
 
 void setup() {
